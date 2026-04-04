@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m [Your Name]<br><br>🚀 Engineer focused on shipping AI-powered products, not just models<br><br>🔭 I’m currently working on<br>AI-powered web apps with a focus on performance and real-world impact<br><br>👯 I’m looking to collaborate on<br>Open-source ML, AI tools, and scalable web platforms<br><br>🤝 I’m looking for help with<br>MLOps, distributed systems, and production-scale ML<br><br>🌱 I’m currently learning<br>Deep learning, system design, and cloud-native ML<br><br>💬 Ask me about<br>Machine learning, full-stack dev, APIs, and building end-to-end systems<br><br>⚡ Fun fact<br>I build from model → API → production-ready app
+👋 Hey, I’m Nilay Dawn<br><br>🚀 Engineer focused on shipping AI-powered products, not just models<br><br>🔭 I’m currently working on<br>AI-powered web apps with a focus on performance and real-world impact<br><br>👯 I’m looking to collaborate on<br>Open-source ML, AI tools, and scalable web platforms<br><br>🤝 I’m looking for help with<br>MLOps, distributed systems, and production-scale ML<br><br>🌱 I’m currently learning<br>Deep learning, system design, and cloud-native ML<br><br>💬 Ask me about<br>Machine learning, full-stack dev, APIs, and building end-to-end systems<br><br>⚡ Fun fact<br>I build from model → API → production-ready app
 
 
 ## 🌐 Socials:
